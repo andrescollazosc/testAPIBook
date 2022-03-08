@@ -1,0 +1,12 @@
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\bin\Debug\net6.0\BooksStore.Domain.Contracts.deps.json
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\bin\Debug\net6.0\BooksStore.Domain.Contracts.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\bin\Debug\net6.0\ref\BooksStore.Domain.Contracts.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\bin\Debug\net6.0\BooksStore.Domain.Contracts.pdb
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\ref\BooksStore.Domain.Contracts.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Contracts\obj\Debug\net6.0\BooksStore.Domain.Contracts.pdb

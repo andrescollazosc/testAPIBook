@@ -1,0 +1,12 @@
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\bin\Debug\net6.0\BooksStore.Services.Dto.deps.json
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\bin\Debug\net6.0\BooksStore.Services.Dto.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\bin\Debug\net6.0\ref\BooksStore.Services.Dto.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\bin\Debug\net6.0\BooksStore.Services.Dto.pdb
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\ref\BooksStore.Services.Dto.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Services.Dto\obj\Debug\net6.0\BooksStore.Services.Dto.pdb

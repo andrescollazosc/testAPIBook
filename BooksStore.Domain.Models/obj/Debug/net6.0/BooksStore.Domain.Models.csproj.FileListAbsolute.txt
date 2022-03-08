@@ -1,0 +1,11 @@
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\bin\Debug\net6.0\BooksStore.Domain.Models.deps.json
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\bin\Debug\net6.0\BooksStore.Domain.Models.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\bin\Debug\net6.0\ref\BooksStore.Domain.Models.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\bin\Debug\net6.0\BooksStore.Domain.Models.pdb
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\BooksStore.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\BooksStore.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\BooksStore.Domain.Models.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\BooksStore.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\BooksStore.Domain.Models.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\ref\BooksStore.Domain.Models.dll
+C:\Users\acollazos\source\repos\BooksStore\BooksStore.Domain.Models\obj\Debug\net6.0\BooksStore.Domain.Models.pdb
